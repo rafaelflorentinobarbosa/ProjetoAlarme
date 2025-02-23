@@ -53,7 +53,7 @@ Este projeto demonstra a aplicação prática de sistemas embarcados, combinando
 
 ## 📜 Código-Fonte
 Todo o código-fonte do projeto está disponível no repositório GitHub:
-🔗 [Acesse o repositório](https://github.com/rafaelflorentinobarbosa)
+🔗 [Acesse o repositório](https://github.com/rafaelflorentinobarbosa/ProjetoAlarme)
 
 ## 📦 Como Baixar e Utilizar
 ```bash
